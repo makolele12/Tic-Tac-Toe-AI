@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-AI
-Tic Tac Toe terminal-based game with implemeted CPU-AI
+Tic Tac Toe terminal-based game with implemeted CPU-AI (2015)
 
 This terminal-based Tic Tac Toe game has a CPU player which tries to inteligently beat a human player.
 Basically, before performing an action it looks at all the possible actions either the player and the CPU can perform in the 3 future moves.
